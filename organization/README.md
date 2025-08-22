@@ -10,15 +10,15 @@ To assist you in organizing your event, we've created a practical checklist cove
 
 ### 👥 1. Initial Planning
 
-- [ ] Connect with partners in your community to assist with event organization and support. This includes roles such as check-in, main host, timekeeping, and content delivery (speakers, facilitators, and proctors).
-- [ ] Establish the **date and time** for the event (including 15 extra minutes at the start for adjustments).
+- [x] Connect with partners in your community to assist with event organization and support. This includes roles such as check-in, main host, timekeeping, and content delivery (speakers, facilitators, and proctors).
+- [x] Establish the **date and time** for the event (i24/09/2025, 11:00-14:00).
 
 ### 🏢 2. Initial Planning: Venue and Logistics
 
-- [ ] Find an **appropriate venue** (Connect with your network to find a company, co-working or university to host the event). As the event is hands-on, ensure the venue has enough space for participants to work comfortably.
-- [ ] Verify the **venue capacity** (our recommendation is to have at least 30 participants).
-- [ ] Check the **infrastructure** (tables, chairs, stable Wi-Fi, projector or large display, microphone for larger spaces).
-- [ ] Confirm the **ease of access** (public transportation, parking). This information is **important for participants** and you should include it in your registration page.
+- [x] Find an **appropriate venue** (Universidad Catoloica Andtres Bello to host the event). As the event is hands-on, ensure the venue has enough space for participants to work comfortably.
+- [x] Verify the **venue capacity** (80 participants).
+- [x] Check the **infrastructure** (tables, chairs, stable Wi-Fi, projector or large display, microphone for larger spaces).
+- [x] Confirm the **ease of access** (public transportation, parking). This information is **important for participants** and you should include it in your registration page.
 - [ ] You are open to find sponsorship to offer **food and drinks** (water, coffee, snacks).
 
 > [!TIP]
@@ -28,8 +28,8 @@ To assist you in organizing your event, we've created a practical checklist cove
 
 In our agenda, we have planned 2 sessions and 1 workshop. **This means you should engage partners from your community to help deliver these activities.**
 
-- [ ] Identify and invite speakers to lead the presentations.
-- [ ] Recruit facilitators and proctors to run the workshops and support hands-on learning. A proctor is someone who can assist participants during practical activities.
+- [x] Identify and invite speakers to lead the presentations.
+- [x] Recruit facilitators and proctors to run the workshops and support hands-on learning. A proctor is someone who can assist participants during practical activities.
 - [ ] Share the content resources with all speakers, facilitators and proctors, so they are well-prepared.
 - [ ] Prepare a **backup plan** in case a speaker or facilitator is unable to attend.
 
@@ -47,8 +47,8 @@ Your event name should follow this format: `VS Code Dev Day [City Name]`. For ex
 
 This makes it easy to identify your event as part of our global initiative.
 
-- [ ] Create an **event registration page** with detailed event information. [Here is an example: registration-page-draft](registration-page-draft.md).
-- [ ] Check with your venue which information they need to allow access and include this information in your registration form (i.e. name, email, experience level with GitHub, etc).
+- [x] Create an **event registration page** with detailed event information. [Here is an example: registration-page-draft](registration-page-draft.md).
+- [x] Check with your venue which information they need to allow access and include this information in your registration form (i.e. name, email, experience level with GitHub, etc).
 - [ ] **Use our templates to create banners for your event page and social media (Instagram, LinkedIn, etc.).** You can find all [available templates in the marketing folder](../marketing/).
 
 **It’s important that your registration page includes the event description, content agenda, date, time, location, banner, and event name following the global initiative’s standard. This ensures consistency and helps participants easily find all the necessary information.**
